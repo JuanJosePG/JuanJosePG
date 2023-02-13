@@ -3,7 +3,7 @@
 ## I'm a Salesforce Commerce Cloud Developer!!
 
 - 📚  I’m currently learning everything, my favourite hobby is to learn.
-- 🏆 [B2C Commerce Cloud Developer Certification] ()
+- 🏆  B2C Commerce Cloud Developer Certification - ID 2436855
 - 🗓️  2023 Goals: Get another certification, read more, learn other related fields...
 
 ### Connect with me:
